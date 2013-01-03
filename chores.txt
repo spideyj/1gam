@@ -1,0 +1,85 @@
+:: Start
+You arrive home after a long and tiring day, only to realize that there is a long and tiring pile of household chores ahead of you.
+
+Do you:
+
+# [[Wash the dishes|Dish Washing]]
+# [[Do the laundry|Laundry]]
+# [[Vacuum the living room|Vacuuming]]
+
+
+
+
+
+:: Dish Washing
+You decide to approach the intimidating pile of dirty dishes sitting in your sink and on the counters around it.
+
+* [[Stack the dishes|Stacking Dishes]]
+* [[Look for the dish soap|Looking for Soap]]
+
+
+
+
+:: Laundry
+
+
+
+:: Vacuuming
+
+
+
+:: Stacking Dishes
+
+You approach the dishes to stack them into some semblence of order before you begin washing them, but you realize before long that you need to take the garbage out first. Various food cartons and other remnants of past hurried meals are deposited amongst the dishes, and you have no hope of organizing any of this without disposing of the detritus first.
+
+*[[Take out the garbage|Taking Out the Garbage]]
+
+Or leave the dishes for later and work on another task:
+* [[Do the laundry|Laundry]]
+* [[Vacuum the living room|Vacuuming]]
+
+
+
+:: Looking for Soap
+
+
+
+:: StoryTitle
+
+Household Chores
+
+
+:: StoryAuthor
+
+by Kanane L. Jones
+
+
+:: Taking Out the Garbage
+You pull the overstuffed garbage bag out of the garbage can, nearly ripping it in the process. As you lift the unwieldy thing, a hole rips in the side, spilling some of the contents.
+
+[[Get another garbage bag|Another garbage bag]]
+[[Carry the garbage out anyway|The broken bag]]
+
+
+
+
+:: The broken bag
+
+
+
+:: Another garbage bag
+You set the groaning bag down and go to the cupboard to get out an empty one. The box of garbage bags is nearly empty, though; if you use one to enclose the other, you won't have a bag to replace it in the garbage can.
+
+* [[Save the garbage bag for the can|The broken bag]]
+* [[Go to the corner store and buy more garbage bags|The corner store]]
+
+Or leave the garbage (and the dishes) for later and work on another task:
+* [[Do the laundry|Laundry]] 
+* [[Vacuum the living room|Vacuuming]]
+
+
+
+:: The corner store
+
+
+
