@@ -5,7 +5,7 @@ VC:\u005cUsers\u005cSpidey\u005cDocuments\u005cWork\u005c1gam\u005cchores.html
 p2
 sS'saveDestination'
 p3
-VC:\u005cUsers\u005cSpidey\u005cDocuments\u005cWork\u005c1gam\u005cchores.tws
+S'C:\\Documents and Settings\\Nani\\My Documents\\GitHub\\1gam\\chores.tws'
 p4
 sS'target'
 p5
@@ -187,7 +187,7 @@ Tiddler
 p65
 (dp66
 g18
-V\u000aYou approach the dishes to stack them into some semblence of order before you begin washing them, but you realize before long that you need to take the garbage out first. Various food cartons and other remnants of past hurried meals are deposited amongst the dishes, and you have no hope of organizing any of this without disposing of the detritus first.\u000a\u000a*[[Take out the garbage|Taking Out the Garbage]]\u000a\u000aOr leave the dishes for later and work on another task:\u000a* [[Do the laundry|The bedroom]]\u000a* [[Vacuum the living room|The living room]]\u000a
+V\u000aYou examine the dishes, considering how to stack them into some semblence of order before you begin washing them, but you realize before long that you need to take the garbage out first. Various food cartons and other remnants of past hurried meals are deposited amongst the dishes, and you have no hope of organizing any of this without disposing of the detritus first.\u000a\u000a*[[Take out the garbage|Taking Out the Garbage]]\u000a\u000aOr leave the dishes for later and work on another task:\u000a* [[Do the laundry|The bedroom]]\u000a* [[Vacuum the living room|The living room]]\u000a
 p67
 sg20
 (lp68
@@ -213,7 +213,7 @@ VStacking Dishes
 p73
 sbsa(dp74
 g12
-I01
+I00
 sg13
 (lp75
 I667
@@ -224,7 +224,7 @@ Tiddler
 p76
 (dp77
 g18
-VAfter shifting some of the piles around from the sink to what little counter space remains, you find the dish soap lying in the bottom of the sink. Most of the soap has leaked out but it looks like there's enough left to finish the dishes.
+VAfter shifting some of the piles around from the sink to what little counter space remains, you find the dish soap lying in the bottom of the sink. Most of the soap has leaked out but it looks like there's enough left to finish the dishes. [[You set the soap behind the faucet and then tackle the dishes.|Stacking Dishes]]\u000a
 p78
 sg20
 (lp79
@@ -364,7 +364,7 @@ g12
 I00
 sg13
 (lp119
-I634
+I635
 aI740
 asg15
 (itiddlywiki
@@ -372,7 +372,7 @@ Tiddler
 p120
 (dp121
 g18
-S''
+VYou lug the garbage bag out through the back door and put it in the garbage bin. Unfortunately, you've left a trail of trash behind you as the bag's contents leaked out along your path. After pondering the mess for a bit, you go back and pick up the remainders and carry them out to the garbage bin as well, then [[return to the kitchen.|Back to dishes]]\u000a\u000a\u000a
 p122
 sg20
 (lp123
@@ -446,9 +446,10 @@ Tiddler
 p142
 (dp143
 g18
-g122
+VYou grab your keys and your wallet and head out to the corner store, a tiny overpriced grocery store a block down from your apartment. Halfway there, you realize that you left your phone behind at home. You pause a moment to consider but decide it's not worth the extra time to go back for it. You can check for messages when you get back, after all.\u000a\u000aFortunately the corner store is still open and has some (slightly overpriced) trash bags. You purchase them and [[return home.|The garbage]]\u000a\u000a
+p144
 sg20
-(lp144
+(lp145
 sg22
 g23
 ((I2013
@@ -460,36 +461,36 @@ I49
 I2
 I2
 I0
-tp145
-(dp146
-tp147
-Rp148
+tp146
+(dp147
+tp148
+Rp149
 sg28
-g148
+g149
 sg29
 VThe corner store
-p149
-sbsa(dp150
+p150
+sbsa(dp151
 g12
 I00
 sg13
-(lp151
+(lp152
 I715
 aI155
 asg15
 (itiddlywiki
 Tiddler
-p152
-(dp153
+p153
+(dp154
 S'text'
-p154
-VThe kitchen shows signs of neglect. The sink and counters are piled high with dirty dishes and empty food containers, the garbage is nearly overflowing, the floor is slightly sticky and scattered with crumbs.\u000a\u000a[[Wash the dishes|Dish Washing]]\u000a\u000aIf you're discouraged by the kitchen, you can work on another task:\u000a* [[Do the laundry|The bedroom]]\u000a* [[Vacuum the living room|The living room]]\u000a
 p155
-sS'tags'
+VYou examine the kitchen with a sigh. There are telltale signs of several days of neglect. The sink and counters are piled high with dirty dishes and empty food containers, the garbage is nearly overflowing and the floor is slightly sticky and scattered with crumbs.\u000a\u000a[[Wash the dishes|Dish Washing]]\u000a\u000aIf you're discouraged by the kitchen, you can work on another task:\u000a* [[Do the laundry|The bedroom]]\u000a* [[Vacuum the living room|The living room]]\u000a
 p156
-(lp157
+sS'tags'
+p157
+(lp158
 sS'created'
-p158
+p159
 g23
 ((I2013
 I1
@@ -500,35 +501,35 @@ I32
 I3
 I3
 I0
-tp159
-(dp160
-tp161
-Rp162
+tp160
+(dp161
+tp162
+Rp163
 sS'modified'
-p163
-g162
-sS'title'
 p164
-VThe Kitchen
+g163
+sS'title'
 p165
-sbsa(dp166
+VThe Kitchen
+p166
+sbsa(dp167
 g12
 I00
 sg13
-(lp167
+(lp168
 I851
 aI156
 asg15
 (itiddlywiki
 Tiddler
-p168
-(dp169
-g154
+p169
+(dp170
+g155
 VThe living room isn't too bad; a little cluttered perhaps, and some detritus left over from late night snacks in front of the TV that need picking up, but mostly it needs a good vacuuming.\u000a\u000a[[Get out the vacuum|Vacuuming]]\u000a\u000aOr you can leave this and tackle one of the more challenging and time-consuming tasks:\u000a* [[Wash the dishes|The Kitchen]]\u000a* [[Do the laundry|The bedroom]]\u000a\u000a
-p170
-sg156
-(lp171
-sg158
+p171
+sg157
+(lp172
+sg159
 g23
 ((I2013
 I1
@@ -539,33 +540,33 @@ I37
 I3
 I3
 I0
-tp172
-(dp173
-tp174
-Rp175
-sg163
-g175
+tp173
+(dp174
+tp175
+Rp176
 sg164
+g176
+sg165
 VThe living room
-p176
-sbsa(dp177
+p177
+sbsa(dp178
 g12
 I00
 sg13
-(lp178
+(lp179
 I1003
 aI156
 asg15
 (itiddlywiki
 Tiddler
-p179
-(dp180
-g154
+p180
+(dp181
+g155
 VThe bedroom floor is barely visible under the piles of books and dirty clothes scattered everywhere. Best to start by gathering up the clothes and putting them in the washing machine.\u000a\u000a[[Begin picking up the dirty laundry|Laundry]]\u000a\u000aOr you could put it off another day (maybe you still have some spare socks and underwear hiding in the laundry basket or the dryer) and begin on the living room or the kitchen instead:\u000a* [[Wash the dishes|The Kitchen]]\u000a* [[Vacuum the living room|The living room]]\u000a
-p181
-sg156
-(lp182
-sg158
+p182
+sg157
+(lp183
+sg159
 g23
 ((I2013
 I1
@@ -576,16 +577,204 @@ I42
 I3
 I3
 I0
-tp183
-(dp184
-tp185
-Rp186
-sg163
-g186
+tp184
+(dp185
+tp186
+Rp187
 sg164
+g187
+sg165
 VThe bedroom
-p187
-sbsasS'scale'
 p188
+sbsa(dp189
+g12
+I00
+sg13
+(lp190
+I630
+aI1032
+asg15
+(itiddlywiki
+Tiddler
+p191
+(dp192
+S'text'
+p193
+VYou gradually make your way through the heaping piles, rinsing and stacking dishes in the dishwasher and sink, throwing out the ancient food containers and other detritus, signs of a life preoccupied with things other than household chores.\u000a\u000aAfter an hour or so of this, you look around and realize that the kitchen is looking much improved now, though the floor could still use some love.\u000a\u000aYou can finish up in here by [[cleaning the kitchen floor|Mopping]] or leave it for another time and focus on another task in either [[the bedroom]] or [[the living room]].\u000a
+p194
+sS'tags'
+p195
+(lp196
+sS'created'
+p197
+g23
+((I2013
+I1
+I5
+I14
+I48
+I5
+I5
+I5
+I0
+tp198
+(dp199
+tp200
+Rp201
+sS'modified'
+p202
+g201
+sS'title'
+p203
+VBack to dishes
+p204
+sbsa(dp205
+g12
+I00
+sg13
+(lp206
+I453
+aI1028
+asg15
+(itiddlywiki
+Tiddler
+p207
+(dp208
+g193
+VYou place the ripped bag inside another bag and carry it out to the garbage bin, then return and place a new one inside the trash can. Now you can return to [[the dishes|Back to dishes]]\u000a
+p209
+sg195
+(lp210
+sg197
+g23
+((I2013
+I1
+I5
+I14
+I51
+I59
+I5
+I5
+I0
+tp211
+(dp212
+tp213
+Rp214
+sg202
+g214
+sg203
+VThe garbage
+p215
+sbsa(dp216
+g12
+I00
+sg13
+(lp217
+I930
+aI1832
+asg15
+(itiddlywiki
+Tiddler
+p218
+(dp219
+g193
+S''
+p220
+sg195
+(lp221
+sg197
+g23
+((I2013
+I1
+I5
+I15
+I10
+I49
+I5
+I5
+I0
+tp222
+(dp223
+tp224
+Rp225
+sg202
+g225
+sg203
+Vthe bedroom
+p226
+sbsa(dp227
+g12
+I00
+sg13
+(lp228
+I1070
+aI1832
+asg15
+(itiddlywiki
+Tiddler
+p229
+(dp230
+g193
+g220
+sg195
+(lp231
+sg197
+g23
+((I2013
+I1
+I5
+I15
+I10
+I57
+I5
+I5
+I0
+tp232
+(dp233
+tp234
+Rp235
+sg202
+g235
+sg203
+Vthe living room
+p236
+sbsa(dp237
+g12
+I00
+sg13
+(lp238
+I10
+aI1972
+asg15
+(itiddlywiki
+Tiddler
+p239
+(dp240
+g193
+g220
+sg195
+(lp241
+sg197
+g23
+((I2013
+I1
+I5
+I15
+I11
+I15
+I5
+I5
+I0
+tp242
+(dp243
+tp244
+Rp245
+sg202
+g245
+sg203
+VMopping
+p246
+sbsasS'scale'
+p247
 I1
 ss.
